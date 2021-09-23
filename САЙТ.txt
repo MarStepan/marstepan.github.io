@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Помитунов Даниил </title>
+  <title> Марченко Степан </title>
 </head>
 <body>
 <h1>Сайт</h1>
